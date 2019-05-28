@@ -8,7 +8,7 @@ spec:
   source:
     type: Git
     git:
-      uri: https://github.com/openshift/jenkins-client-plugin.git
+      uri: https://github.com/Great-Stone/jenkins-client-plugin.git
   strategy:
     type: JenkinsPipeline
     jenkinsPipelineStrategy:
